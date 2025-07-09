@@ -73,7 +73,7 @@ local statusLabel = Instance.new("TextLabel", statusBox)
 statusLabel.Size = UDim2.new(1, -10, 1, -10)
 statusLabel.Position = UDim2.new(0, 5, 0, 5)
 statusLabel.BackgroundTransparency = 1
-statusLabel.Text = '<font color="rgb(0,255,0)">Connected</font>\nWelcome back, Toggle\nAdded Counter Blox: Global Offensive (Subscription)\nAdded Arsenal (Subscription)\nYour session expires in 3 minutes'
+statusLabel.Text = '<font color="rgb(0,255,0)">Connected</font>\nWelcome back, User\nAdded Counter Blox: Global Offensive (Subscription)\nAdded Arsenal (Subscription)\nYour session expires in 3 minutes'
 statusLabel.TextColor3 = Color3.fromRGB(200, 200, 200)
 statusLabel.Font = Enum.Font.Code
 statusLabel.TextSize = 13
