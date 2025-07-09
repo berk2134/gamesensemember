@@ -89,7 +89,7 @@ local games = {
         Name = "Counter-Blox: Global Offensive",
         Subtitle = "Updated 09.07.2025 22:32",
         Icon = "rbxassetid://129203877714411",
-        ScriptUrl = "https://raw.githubusercontent.com/berk2134/gamesensemember/refs/heads/main/csgo.lua",
+        ScriptUrl = "https://raw.githubusercontent.com/berk2134/gamesensemember/refs/heads/main/gamesense.lua",
     },
     {
         Name = "Arsenal",
